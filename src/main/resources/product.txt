@@ -1,0 +1,11 @@
+0;pasta;500;1
+1;bread;500;0
+2;vodka;600;0
+3;milk;700;0
+4;chocolate;200;0
+5;cheese;350;0
+6;meat;800;1
+7;tomato;320;0
+8;fish;900;1
+9;chicken;1000;1
+10;rise;150;0
